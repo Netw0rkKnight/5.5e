@@ -82,7 +82,6 @@ DND5E.attunements = {
 DND5E.weaponProficiencies = {
   "sim": "DND5E.WeaponSimpleProficiency",
   "mar": "DND5E.WeaponMartialProficiency",
-  "exo": "DND5E.WeaponExoticProficiency"
 };
 
 /**
@@ -96,8 +95,6 @@ DND5E.weaponProficienciesMap = {
   "simpleR": "sim",
   "martialM": "mar",
   "martialR": "mar",
-  "exoticM": "exo",
-  "exoticR": "exo"
 };
 
 /**
@@ -469,10 +466,6 @@ DND5E.armorIds = {
  */
 DND5E.shieldIds = {
   "shield": "sSs3hSzkKBMNBgTs",
-  "buckler": "sSs3hBckKBMNBgTs",
-  "lrgshield": "sSs3hLrgKBMNBgTs",
-  "twrshield": "sSs3hTwrKBMNBgTs"
-  
 };
 
 /**
@@ -722,7 +715,6 @@ DND5E.senses = {
   "darkvision": "DND5E.SenseDarkvision",
   "tremorsense": "DND5E.SenseTremorsense",
   "truesight": "DND5E.SenseTruesight",
-  "infravision": "DND5E.SenseInfravision"
 };
 
 /* -------------------------------------------- */
@@ -848,7 +840,6 @@ DND5E.spellSchools = {
   "ill": "DND5E.SchoolIll",
   "nec": "DND5E.SchoolNec",
   "trs": "DND5E.SchoolTrs",
-  "hae": "DND5E.SchoolHae"
 };
 
 // Spell Levels
@@ -1011,16 +1002,6 @@ DND5E.languages = {
   "terran": "DND5E.LanguagesTerran",
   "cant": "DND5E.LanguagesThievesCant",
   "undercommon": "DND5E.LanguagesUndercommon",
-  "joruumnt": "DND5E.LanguagesJoruumnt",
-  "tawhito": "DND5E.LanguagesTawhito",
-  "wodespeech": "DND5E.LanguagesWodespeech",
-  "drakken": "DND5E.LanguagesDrakken",
-  "infernales": "DND5E.LanguagesInfernales",
-  "orrukni": "DND5E.LanguagesOrrukni",
-  "halfcant": "DND5E.LanguagesHalfcant",
-  "cawling": "DND5E.LanguagesCawling",
-  "lantean": "DND5E.LanguagesLantean",
-  "tortugan": "DND5E.LanguagesTortugan"
 };
 
 // Character Level XP Requirements
