@@ -2,7 +2,7 @@
   "name": "dnd5.5e",
   "title": "DnD5.5e - Modified Fifth Edition System",
   "description": "A system for playing the fifth edition of the worlds most popular role-playing game in the Foundry Virtual Tabletop environment.",
-  "version": "0.1",
+  "version": "0.2",
   "author": "Atropos w/ Modifications by Network Knight",
   "scripts": [],
   "esmodules": ["dnd5e.js"],
